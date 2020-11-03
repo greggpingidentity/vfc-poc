@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urn:AdapterConfiguration authnCtxClassRef="" isInheritAttributeSettings="true" isInheritAttributeMapping="true" isInheritExtendedContractAttributes="true" name="VansForm" xmlns:urn="urn:sourceid.org:saml2:adapter:conf">
+    <urn:Fields>
+        <urn:Field name="Login Template">html.form.login.vans.html</urn:Field>
+    </urn:Fields>
+    <urn:AdvancedFields>
+        <urn:Field name="Login Template">html.form.login.vans.html</urn:Field>
+    </urn:AdvancedFields>
+    <urn:Tables/>
+</urn:AdapterConfiguration>
